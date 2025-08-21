@@ -1,0 +1,340 @@
+.div {
+    position: relative;
+    line-height: 160%;
+    font-weight: 600;
+}
+
+.wrapper {
+    width: 92.8px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.frameContainer {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    justify-content: center;
+}
+
+.balnerioCambori {
+    width: 133.8px;
+    position: relative;
+    line-height: 160%;
+    display: inline-block;
+    flex-shrink: 0;
+}
+
+.balnerioCamboriScWrapper {
+    width: 131.4px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+.frameDiv {
+    width: 256.7px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    justify-content: center;
+    margin-top: -2.4px;
+    position: relative;
+}
+
+.frameGroup {
+    width: 253.1px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+
+.pnl17 {
+    width: 136px;
+    position: relative;
+    line-height: 160%;
+    text-transform: uppercase;
+    font-weight: 600;
+    display: inline-block;
+    height: 42px;
+    flex-shrink: 0;
+}
+
+.programaoNeurolingustica {
+    position: relative;
+    line-height: 160%;
+}
+
+.programaoNeurolingusticaWrapper {
+    width: 104.9px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    font-size: 8px;
+    color: #707c84;
+}
+
+.pnl17Parent {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 1.2px;
+    font-size: 36px;
+    color: #525b61;
+}
+
+.inscriesAbertas {
+    position: relative;
+    font-size: 12px;
+    line-height: 160%;
+    font-weight: 600;
+}
+
+.statusParent {
+    width: 231.4px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 80.8px;
+}
+
+.frameWrapper1 {
+    width: 253.1px;
+    border-radius: 6.03px;
+    background-color: #2a9764;
+    height: 26.5px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 0px 11.1px;
+    box-sizing: border-box;
+    color: #fff;
+}
+
+.capacidadeParent {
+    width: 231.4px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 157.9px;
+}
+
+.frameWrapper2 {
+    border-radius: 6.03px;
+    background-color: #e6e6e6;
+    height: 26.7px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 0px 11.1px;
+    box-sizing: border-box;
+}
+
+.groupChild {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 12.05px;
+    background-color: #c6c6c6;
+    width: 244.7px;
+    height: 56.6px;
+}
+
+.groupItem {
+    position: absolute;
+    top: 18.06px;
+    left: 253.07px;
+    border-radius: 3.62px;
+    background-color: #c6c6c6;
+    width: 16.9px;
+    height: 20.5px;
+    transform: rotate(180deg);
+    transform-origin: 0 0;
+}
+
+.groupInner {
+    position: absolute;
+    top: 0.12px;
+    left: 0.51px;
+    border-radius: 12.05px;
+    background-color: #ff7070;
+    width: 83px;
+    height: 56.6px;
+}
+
+.confirmados {
+    position: relative;
+    line-height: 77%;
+}
+
+.div2 {
+    width: 58px;
+    position: relative;
+    font-size: 31.34px;
+    line-height: 77%;
+    text-transform: uppercase;
+    font-weight: 500;
+    display: inline-block;
+    height: 23px;
+    flex-shrink: 0;
+}
+
+.confirmadosParent {
+    width: 58px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 8.4px;
+}
+
+.inscritos {
+    width: 56.6px;
+    position: relative;
+    line-height: 77%;
+    display: inline-block;
+}
+
+.div3 {
+    position: relative;
+    font-size: 31.34px;
+    line-height: 77%;
+    text-transform: uppercase;
+    font-weight: 500;
+}
+
+.inscritosParent {
+    width: 51px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 8.4px;
+    font-size: 9.64px;
+    color: #fff;
+}
+
+.frameParent2 {
+    width: 217px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 108px;
+}
+
+.frameWrapper3 {
+    position: absolute;
+    top: calc(50% - 19.85px);
+    left: 11.06px;
+    width: 58px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+
+.rectangleParent {
+    width: 253.1px;
+    position: relative;
+    height: 56.8px;
+    color: #000;
+}
+
+.bitcoinIconsconfirmations6 {
+    width: 19.3px;
+    position: relative;
+    max-height: 100%;
+    overflow: hidden;
+    flex-shrink: 0;
+}
+
+.expectativaReal {
+    position: relative;
+    line-height: 160%;
+    font-weight: 500;
+}
+
+.bitcoinIconsconfirmations6Parent {
+    width: 226.6px;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 51.8px;
+}
+
+.frameWrapper4 {
+    align-self: stretch;
+    border-radius: 6.03px;
+    background-color: #e6e6e6;
+    height: 26.5px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 0px 11.1px;
+    box-sizing: border-box;
+    font-size: 12px;
+}
+
+.frameParent1 {
+    align-self: stretch;
+    height: 191.6px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 8.4px;
+    font-size: 10px;
+    color: #61696d;
+}
+
+.frameParent {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 253.1px;
+    height: 297.7px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 16.9px;
+}
+
+.frameWrapper {
+    width: 253.1px;
+    position: relative;
+    height: 297.7px;
+}
+
+.groupParent {
+    width: 100%;
+    position: relative;
+    box-shadow: 1.3958725929260254px 1.3958725929260254px 4.19px rgba(0, 0, 0, 0.1);
+    border-radius: 24.1px;
+    background-color: #f6f6f6;
+    height: 388.1px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 37.4px 51.8px;
+    box-sizing: border-box;
+    text-align: left;
+    font-size: 12px;
+    color: #707c84;
+    font-family: Figtree;
+}
