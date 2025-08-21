@@ -1,0 +1,7 @@
+{
+  "/(admin)/page": "app/(admin)/page.js",
+  "/(admin)/(others-pages)/(forms)/form-elements/page": "app/(admin)/(others-pages)/(forms)/form-elements/page.js",
+  "/(admin)/(others-pages)/calendar/page": "app/(admin)/(others-pages)/calendar/page.js",
+  "/(admin)/(others-pages)/profile/page": "app/(admin)/(others-pages)/profile/page.js",
+  "/(admin)/(others-pages)/(chart)/line-chart/page": "app/(admin)/(others-pages)/(chart)/line-chart/page.js"
+}
