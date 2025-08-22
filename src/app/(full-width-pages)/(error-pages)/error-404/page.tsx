@@ -1,7 +1,10 @@
 import Frame6 from "@/components/cards/classes";
+// eslint-disable-next-line @typescript-eslint/no-unused-vars
 import GridShape from "@/components/common/GridShape";
 import { Metadata } from "next";
+// eslint-disable-next-line @typescript-eslint/no-unused-vars
 import Image from "next/image";
+// eslint-disable-next-line @typescript-eslint/no-unused-vars
 import Link from "next/link";
 import React from "react";
 
