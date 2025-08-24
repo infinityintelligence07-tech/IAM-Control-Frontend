@@ -5,6 +5,13 @@ import AppHeader from "@/layout/AppHeader";
 import AppSidebar from "@/layout/AppSidebar";
 import Backdrop from "@/layout/Backdrop";
 import React from "react";
+import type { Metadata } from "next";
+
+export const metadata: Metadata = {
+  title:
+    "IAM Control",
+  description: "Esse é o ERP do IAM, que centraliza todas as informações e processos, de todos os departamentos.",
+};
 
 export default function AdminLayout({
   children,

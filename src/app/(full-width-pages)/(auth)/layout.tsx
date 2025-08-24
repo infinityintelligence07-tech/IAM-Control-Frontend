@@ -5,6 +5,12 @@ import { ThemeProvider } from "@/context/ThemeContext";
 import Image from "next/image";
 import Link from "next/link";
 import React from "react";
+import type { Metadata } from "next";
+
+export const metadata: Metadata = {
+  title: "IAM Control",
+  description: "Esse é o ERP do IAM, que centraliza todas as informações e processos, de todos os departamentos.",
+};
 
 export default function AuthLayout({
   children,

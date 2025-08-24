@@ -11,32 +11,6 @@
       "static/chunks/main-app.js",
       "static/chunks/app/not-found.js"
     ],
-    "/(admin)/layout": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/(admin)/layout.js"
-    ],
-    "/(admin)/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/(admin)/page.js"
-    ],
-    "/(admin)/(others-pages)/calendar/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/(admin)/(others-pages)/calendar/page.js"
-    ],
-    "/(admin)/(others-pages)/profile/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/(admin)/(others-pages)/profile/page.js"
-    ],
-    "/(admin)/(others-pages)/(forms)/form-elements/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/css/app/(admin)/(others-pages)/(forms)/form-elements/page.css",
-      "static/chunks/app/(admin)/(others-pages)/(forms)/form-elements/page.js"
-    ],
     "/(full-width-pages)/layout": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
@@ -51,31 +25,6 @@
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
       "static/chunks/app/(full-width-pages)/(auth)/signin/page.js"
-    ],
-    "/(full-width-pages)/(auth)/signup/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/(full-width-pages)/(auth)/signup/page.js"
-    ],
-    "/(admin)/(ui-elements)/alerts/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/(admin)/(ui-elements)/alerts/page.js"
-    ],
-    "/(admin)/(others-pages)/(chart)/line-chart/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/(admin)/(others-pages)/(chart)/line-chart/page.js"
-    ],
-    "/(admin)/(others-pages)/blank/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/(admin)/(others-pages)/blank/page.js"
-    ],
-    "/(full-width-pages)/(error-pages)/error-404/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/(full-width-pages)/(error-pages)/error-404/page.js"
     ]
   }
 }
